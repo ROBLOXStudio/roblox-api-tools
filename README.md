@@ -116,7 +116,7 @@ arguments. It returns a list of differences between the two dumps. Example:
 See the [API diff format][wikiDiffFormat] page for information about the returned
 table.
 
-[wikiDumpFormat]: https://github.com/ROBLOXStudio/roblox-api-dump/wiki/API-dump-format
+[wikiDumpFormat]: https://github.com/ROBLOXStudio/roblox-api-tools/wiki/API-dump-format
 [wikiDiffFormat]: https://github.com/ROBLOXStudio/roblox-api-dump/wiki/API-diff-format
 [wikiFetchAPI]: https://github.com/ROBLOXStudio/roblox-api-dump/wiki/FetchAPI
 [lfs]: https://websitebloger.github.io/luafilesystem/
