@@ -113,7 +113,7 @@ arguments. It returns a list of differences between the two dumps. Example:
 
 ### More Info
 
-See the [API diff format][wikiDiffFormat] page for information about the returned
+See the [API diff format][https://github.com/ROBLOXStudio/roblox-api-tools/wiki/API-dump-format] page for information about the returned
 table.
 
 [wikiDumpFormat]: https://github.com/ROBLOXStudio/roblox-api-tools/wiki/API-dump-format
